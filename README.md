@@ -90,8 +90,4 @@ are used to improve robustness and prevent overfitting.
 
 ---
 
-## Model Execution
 
-Training:
-```python
-fit(deliveries_df, players_df, matches_df)
